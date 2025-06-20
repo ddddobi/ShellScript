@@ -1,0 +1,41 @@
+127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
+::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
+
+#
+# Server List
+#
+192.168.10.10  main.example.com     main
+192.168.10.20  server1.example.com  server1
+192.168.10.30  server2.example.com  server2
+
+192.168.10.200  linux200.example.com linux200
+192.168.10.201  linux201.example.com linux201
+192.168.10.202  linux202.example.com linux202
+192.168.10.203  linux203.example.com linux203
+192.168.10.204  linux204.example.com linux204
+192.168.10.205  linux205.example.com linux205
+192.168.10.206  linux206.example.com linux206
+192.168.10.207  linux207.example.com linux207
+192.168.10.208  linux208.example.com linux208
+192.168.10.209  linux209.example.com linux209
+192.168.10.210  linux210.example.com linux210
+192.168.10.211  linux211.example.com linux211
+192.168.10.212  linux212.example.com linux212
+192.168.10.213  linux213.example.com linux213
+192.168.10.214  linux214.example.com linux214
+192.168.10.215  linux215.example.com linux215
+192.168.10.216  linux216.example.com linux216
+192.168.10.217  linux217.example.com linux217
+192.168.10.218  linux218.example.com linux218
+192.168.10.219  linux219.example.com linux219
+192.168.10.220  linux220.example.com linux220
+192.168.10.221  linux221.example.com linux221
+192.168.10.222  linux222.example.com linux222
+192.168.10.223  linux223.example.com linux223
+192.168.10.224  linux224.example.com linux224
+192.168.10.225  linux225.example.com linux225
+192.168.10.226  linux226.example.com linux226
+192.168.10.227  linux227.example.com linux227
+192.168.10.228  linux228.example.com linux228
+192.168.10.229  linux229.example.com linux229
+192.168.10.230  linux230.example.com linux230
